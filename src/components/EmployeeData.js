@@ -79,7 +79,7 @@ const EmployeeData = () => {
         <div className='footer ml-0 rounded-full'></div>
         <div className='user fixed bottom-0 rounded-full right-0 w-6/12 '>  
         </div>
-        <Link to="/browse"><div className='home2-logo fixed bottom-0'>
+        <Link to="/Search"><div className='home2-logo fixed bottom-0'>
         <img src={home} alt='img'></img>
         </div></Link>
 
