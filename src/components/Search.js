@@ -15,7 +15,7 @@ const Search = () => {
         </div>
 
 
-        <div className='employee text-white text-center  py-2 left-0 right-0 mx-auto w-80  px-8 rounded-full'>Employee Productivity Dashboard</div>
+        <div className='employee text-white text-center  py-3 left-0 right-0 mx-6 w-80  px-3 rounded-full'>Employee Productivity Dashboard</div>
         <div className='flex flex-nowrap mx-3 px-3 mt-3 pt-3'>
           <div className='text-white mx-12'>Productivity on Monday</div>
           <div className='text-green-800 ml-8 font-bold'>4%</div>
